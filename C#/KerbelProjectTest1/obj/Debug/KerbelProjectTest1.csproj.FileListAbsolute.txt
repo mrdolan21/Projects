@@ -1,0 +1,39 @@
+C:\Users\jmdominguez\Documents\c#\KerbelProjectTest1\KerbelProjectTest1\bin\Debug\KerbelProjectTest1.exe.config
+C:\Users\jmdominguez\Documents\c#\KerbelProjectTest1\KerbelProjectTest1\bin\Debug\KerbelProjectTest1.exe
+C:\Users\jmdominguez\Documents\c#\KerbelProjectTest1\KerbelProjectTest1\bin\Debug\KerbelProjectTest1.pdb
+C:\Users\jmdominguez\Documents\c#\KerbelProjectTest1\KerbelProjectTest1\obj\Debug\KerbelProjectTest1.csproj.AssemblyReference.cache
+C:\Users\jmdominguez\Documents\c#\KerbelProjectTest1\KerbelProjectTest1\obj\Debug\KerbelProjectTest1.csproj.SuggestedBindingRedirects.cache
+C:\Users\jmdominguez\Documents\c#\KerbelProjectTest1\KerbelProjectTest1\obj\Debug\KerbelProjectTest1.Properties.Resources.resources
+C:\Users\jmdominguez\Documents\c#\KerbelProjectTest1\KerbelProjectTest1\obj\Debug\KerbelProjectTest1.csproj.GenerateResource.cache
+C:\Users\jmdominguez\Documents\c#\KerbelProjectTest1\KerbelProjectTest1\obj\Debug\KerbelProjectTest1.csproj.CoreCompileInputs.cache
+C:\Users\jmdominguez\Documents\c#\KerbelProjectTest1\KerbelProjectTest1\obj\Debug\KerbelProjectTest1.exe
+C:\Users\jmdominguez\Documents\c#\KerbelProjectTest1\KerbelProjectTest1\obj\Debug\KerbelProjectTest1.pdb
+C:\Users\jmdominguez\Documents\c#\KerbelProjectTest1\KerbelProjectTest1\obj\Debug\KerbelProjectTest1.Select.resources
+C:\Users\jmdominguez\Documents\c#\KerbelProjectTest1\KerbelProjectTest1\obj\Debug\KerbelProjectTest1.Starting.resources
+C:\Users\jmdominguez\Documents\c#\KerbelProjectTest1\KerbelProjectTest1\obj\Debug\KerbelProjectTest1.Launch.resources
+C:\Users\lfortiz\Documents\C# Fundamentals\KerbelProjectTest1\KerbelProjectTest1\bin\Debug\KerbelProjectTest1.exe.config
+C:\Users\lfortiz\Documents\C# Fundamentals\KerbelProjectTest1\KerbelProjectTest1\bin\Debug\KerbelProjectTest1.exe
+C:\Users\lfortiz\Documents\C# Fundamentals\KerbelProjectTest1\KerbelProjectTest1\bin\Debug\KerbelProjectTest1.pdb
+C:\Users\lfortiz\Documents\C# Fundamentals\KerbelProjectTest1\KerbelProjectTest1\obj\Debug\KerbelProjectTest1.csproj.AssemblyReference.cache
+C:\Users\lfortiz\Documents\C# Fundamentals\KerbelProjectTest1\KerbelProjectTest1\obj\Debug\KerbelProjectTest1.csproj.SuggestedBindingRedirects.cache
+C:\Users\lfortiz\Documents\C# Fundamentals\KerbelProjectTest1\KerbelProjectTest1\obj\Debug\KerbelProjectTest1.Launch.resources
+C:\Users\lfortiz\Documents\C# Fundamentals\KerbelProjectTest1\KerbelProjectTest1\obj\Debug\KerbelProjectTest1.Select.resources
+C:\Users\lfortiz\Documents\C# Fundamentals\KerbelProjectTest1\KerbelProjectTest1\obj\Debug\KerbelProjectTest1.Properties.Resources.resources
+C:\Users\lfortiz\Documents\C# Fundamentals\KerbelProjectTest1\KerbelProjectTest1\obj\Debug\KerbelProjectTest1.Starting.resources
+C:\Users\lfortiz\Documents\C# Fundamentals\KerbelProjectTest1\KerbelProjectTest1\obj\Debug\KerbelProjectTest1.csproj.GenerateResource.cache
+C:\Users\lfortiz\Documents\C# Fundamentals\KerbelProjectTest1\KerbelProjectTest1\obj\Debug\KerbelProjectTest1.csproj.CoreCompileInputs.cache
+C:\Users\lfortiz\Documents\C# Fundamentals\KerbelProjectTest1\KerbelProjectTest1\obj\Debug\KerbelProjectTest1.exe
+C:\Users\lfortiz\Documents\C# Fundamentals\KerbelProjectTest1\KerbelProjectTest1\obj\Debug\KerbelProjectTest1.pdb
+C:\Users\jmdominguez\Downloads\KerbelProjectTest1\KerbelProjectTest1\KerbelProjectTest1\bin\Debug\KerbelProjectTest1.exe.config
+C:\Users\jmdominguez\Downloads\KerbelProjectTest1\KerbelProjectTest1\KerbelProjectTest1\bin\Debug\KerbelProjectTest1.exe
+C:\Users\jmdominguez\Downloads\KerbelProjectTest1\KerbelProjectTest1\KerbelProjectTest1\bin\Debug\KerbelProjectTest1.pdb
+C:\Users\jmdominguez\Downloads\KerbelProjectTest1\KerbelProjectTest1\KerbelProjectTest1\obj\Debug\KerbelProjectTest1.csproj.AssemblyReference.cache
+C:\Users\jmdominguez\Downloads\KerbelProjectTest1\KerbelProjectTest1\KerbelProjectTest1\obj\Debug\KerbelProjectTest1.csproj.SuggestedBindingRedirects.cache
+C:\Users\jmdominguez\Downloads\KerbelProjectTest1\KerbelProjectTest1\KerbelProjectTest1\obj\Debug\KerbelProjectTest1.Launch.resources
+C:\Users\jmdominguez\Downloads\KerbelProjectTest1\KerbelProjectTest1\KerbelProjectTest1\obj\Debug\KerbelProjectTest1.Select.resources
+C:\Users\jmdominguez\Downloads\KerbelProjectTest1\KerbelProjectTest1\KerbelProjectTest1\obj\Debug\KerbelProjectTest1.Properties.Resources.resources
+C:\Users\jmdominguez\Downloads\KerbelProjectTest1\KerbelProjectTest1\KerbelProjectTest1\obj\Debug\KerbelProjectTest1.Starting.resources
+C:\Users\jmdominguez\Downloads\KerbelProjectTest1\KerbelProjectTest1\KerbelProjectTest1\obj\Debug\KerbelProjectTest1.csproj.GenerateResource.cache
+C:\Users\jmdominguez\Downloads\KerbelProjectTest1\KerbelProjectTest1\KerbelProjectTest1\obj\Debug\KerbelProjectTest1.csproj.CoreCompileInputs.cache
+C:\Users\jmdominguez\Downloads\KerbelProjectTest1\KerbelProjectTest1\KerbelProjectTest1\obj\Debug\KerbelProjectTest1.exe
+C:\Users\jmdominguez\Downloads\KerbelProjectTest1\KerbelProjectTest1\KerbelProjectTest1\obj\Debug\KerbelProjectTest1.pdb
